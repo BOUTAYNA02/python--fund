@@ -10,7 +10,5 @@ y = 6
 while x != y:
     if x < y:
         x += 1
-    elif x > y:
-        x -= 1
     print(f"x = {x}, y = {y}")
 print("The program will end at : x == y")
